@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZeeBanglaCinema" tvg-logo="https://i.ibb.co/example1.png" group-title="BANGLA MOVIES",Zee Bangla Cinema
+https://newbdix-xfireflix.vercel.app/api/245897.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsaHD" tvg-logo="https://i.ibb.co/example2.png" group-title="BANGLA ENTERTAINMENT",Star Jalsa HD
+https://newbdix-xfireflix.vercel.app/api/245898.m3u8
+
+#EXTINF:-1 tvg-id="JalsaMoviesHD" tvg-logo="https://i.ibb.co/example3.png" group-title="BANGLA MOVIES",Jalsa Movies HD
+https://newbdix-xfireflix.vercel.app/api/245900.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV" tvg-logo="https://i.ibb.co/example4.png" group-title="BANGLA NEWS",Gazi TV
+https://newbdix-xfireflix.vercel.app/api/245901.m3u8
+
+#EXTINF:-1 tvg-id="Channel9" tvg-logo="https://i.ibb.co/example5.png" group-title="BANGLA ENTERTAINMENT",Channel 9
+https://newbdix-xfireflix.vercel.app/api/245902.m3u8
+
+#EXTINF:-1 tvg-id="NEWS24" tvg-logo="https://i.ibb.co/example6.png" group-title="BANGLA NEWS",NEWS 24
+https://newbdix-xfireflix.vercel.app/api/245903.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews" tvg-logo="https://i.ibb.co/example7.png" group-title="BANGLA NEWS",ATN News
+https://newbdix-xfireflix.vercel.app/api/245905.m3u8
+
+#EXTINF:-1 tvg-id="SUNBangla" tvg-logo="https://i.ibb.co/example8.png" group-title="BANGLA ENTERTAINMENT",SUN Bangla
+https://newbdix-xfireflix.vercel.app/api/245906.m3u8
+
+#EXTINF:-1 tvg-id="AsianTV" tvg-logo="https://i.ibb.co/example9.png" group-title="BANGLA ENTERTAINMENT",Asian TV
+https://newbdix-xfireflix.vercel.app/api/245908.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla" tvg-logo="https://i.ibb.co/example10.png" group-title="BANGLA ENTERTAINMENT",ATN Bangla
+https://newbdix-xfireflix.vercel.app/api/245909.m3u8
+
+#EXTINF:-1 tvg-id="BanglaTV" tvg-logo="https://i.ibb.co/example11.png" group-title="BANGLA ENTERTAINMENT",Bangla TV
+https://newbdix-xfireflix.vercel.app/api/245910.m3u8
+
+#EXTINF:-1 tvg-id="Rtv" tvg-logo="https://i.ibb.co/example12.png" group-title="BANGLA NEWS",Rtv
+https://newbdix-xfireflix.vercel.app/api/245911.m3u8
+
+#EXTINF:-1 tvg-id="DBCNews" tvg-logo="https://i.ibb.co/example13.png" group-title="BANGLA NEWS",DBC News
+https://newbdix-xfireflix.vercel.app/api/245914.m3u8
+
+#EXTINF:-1 tvg-id="EkattorTVHD" tvg-logo="https://i.ibb.co/example14.png" group-title="BANGLA NEWS",Ekattor TV HD
+https://newbdix-xfireflix.vercel.app/api/245915.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV" tvg-logo="https://i.ibb.co/example15.png" group-title="BANGLA NEWS",Independent TV
+https://newbdix-xfireflix.vercel.app/api/245916.m3u8
+
+#EXTINF:-1 tvg-id="JamunaTV" tvg-logo="https://i.ibb.co/example16.png" group-title="BANGLA NEWS",Jamuna TV
+https://newbdix-xfireflix.vercel.app/api/245917.m3u8
+
+#EXTINF:-1 tvg-id="MohonaTV" tvg-logo="https://i.ibb.co/example17.png" group-title="BANGLA ENTERTAINMENT",Mohona TV
+https://newbdix-xfireflix.vercel.app/api/245920.m3u8
+
+#EXTINF:-1 tvg-id="BTVWorld" tvg-logo="https://i.ibb.co/example18.png" group-title="BANGLA ENTERTAINMENT",BTV World
+https://newbdix-xfireflix.vercel.app/api/245922.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTVHD" tvg-logo="https://i.ibb.co/example19.png" group-title="BANGLA ENTERTAINMENT",Boishakhi TV HD
+https://newbdix-xfireflix.vercel.app/api/245923.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTVNews" tvg-logo="https://i.ibb.co/example20.png" group-title="BANGLA NEWS",Somoy TV News
+https://newbdix-xfireflix.vercel.app/api/245925.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV" tvg-logo="https://i.ibb.co/example21.png" group-title="BANGLA ENTERTAINMENT",Deepto TV
+https://newbdix-xfireflix.vercel.app/api/245927.m3u8
+
+#EXTINF:-1 tvg-id="Aakaash" tvg-logo="https://i.ibb.co/example22.png" group-title="BANGLA ENTERTAINMENT",Aakaash
+https://newbdix-xfireflix.vercel.app/api/245928.m3u8
+
+#EXTINF:-1 tvg-id="AnandaTV" tvg-logo="https://i.ibb.co/example23.png" group-title="BANGLA NEWS",Ananda TV
+https://newbdix-xfireflix.vercel.app/api/245929.m3u8
+
+#EXTINF:-1 tvg-id="SangsadBangladesh" tvg-logo="https://i.ibb.co/example24.png" group-title="BANGLA NEWS",Sangsad Bangladesh
+https://newbdix-xfireflix.vercel.app/api/245940.m3u8
+
+#EXTINF:-1 tvg-id="EkhonTV" tvg-logo="https://i.ibb.co/example25.png" group-title="BANGLA NEWS",Ekhon TV
+https://newbdix-xfireflix.vercel.app/api/245943.m3u8
+
+#EXTINF:-1 tvg-id="MovieBangla" tvg-logo="https://i.ibb.co/example26.png" group-title="BANGLA MOVIES",Movie Bangla
+https://newbdix-xfireflix.vercel.app/api/245951.m3u8
+
+#EXTINF:-1 tvg-id="Enter10Bangla" tvg-logo="https://i.ibb.co/example27.png" group-title="BANGLA ENTERTAINMENT",Enter 10 Bangla
+https://newbdix-xfireflix.vercel.app/api/245954.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV" tvg-logo="https://i.ibb.co/example28.png" group-title="BANGLA ENTERTAINMENT",Duronto TV
+https://newbdix-xfireflix.vercel.app/api/245955.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision" tvg-logo="https://i.ibb.co/example29.png" group-title="BANGLA NEWS",Bangla Vision
+https://newbdix-xfireflix.vercel.app/api/245957.m3u8
+
+#EXTINF:-1 tvg-id="SonyYay" tvg-logo="https://i.ibb.co/example30.png" group-title="KIDS",Sony Yay!
+https://newbdix-xfireflix.vercel.app/api/245959.m3u8
+
+#EXTINF:-1 tvg-id="NRBTVHD" tvg-logo="https://i.ibb.co/example31.png" group-title="BANGLA ENTERTAINMENT",NRB TV HD
+https://newbdix-xfireflix.vercel.app/api/245962.m3u8
+
+#EXTINF:-1 tvg-id="MyTV" tvg-logo="https://i.ibb.co/example32.png" group-title="BANGLA ENTERTAINMENT",My TV
+https://newbdix-xfireflix.vercel.app/api/245964.m3u8
+
+#EXTINF:-1 tvg-id="ATNMusic" tvg-logo="https://i.ibb.co/example33.png" group-title="MUSIC",ATN Music
+https://newbdix-xfireflix.vercel.app/api/245965.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-logo="https://i.ibb.co/example34.png" group-title="DOCUMENTARY",Discovery Bangla
+https://newbdix-xfireflix.vercel.app/api/245966.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoBangla" tvg-logo="https://i.ibb.co/example35.png" group-title="DOCUMENTARY",Nat Geo Bangla
+https://newbdix-xfireflix.vercel.app/api/245968.m3u8
+
+#EXTINF:-1 tvg-id="Channel24" tvg-logo="https://i.ibb.co/example36.png" group-title="BANGLA NEWS",Channel 24
+https://newbdix-xfireflix.vercel.app/api/245969.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath" tvg-logo="https://i.ibb.co/example37.png" group-title="BANGLA ENTERTAINMENT",Sony Aath
+https://newbdix-xfireflix.vercel.app/api/245989.m3u8
