@@ -1,34 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Channel_I_Logo.png", Channel I
+#EXTINF:-1, Channel I
 https://tvs2.aynaott.com/channeli/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/NTV_Bangladesh_logo.png", NTV
+#EXTINF:-1, NTV
 https://tvs2.aynaott.com/ntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Rtvbd_logo.png", RTV
+#EXTINF:-1, RTV
 https://tvs2.aynaott.com/rtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Maasranga_Television.png", Maasranga TV
+#EXTINF:-1, Maasranga TV
 https://tvs2.aynaott.com/maasrangatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/T_Sports_Logo.png", T Sports HD
+#EXTINF:-1, T Sports HD
 https://tvs2.aynaott.com/tsportshd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/PTV_Sports_logo.png", P TV Sports
+#EXTINF:-1, P TV Sports
 https://tvs2.aynaott.com/PtvSports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Star_Sports_1.png", Star Sports 1 HD
+#EXTINF:-1, Star Sports 1 HD
 https://tvs2.aynaott.com/ssport1hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/ESPN_wordmark.svg", ESPN
+#EXTINF:-1, ESPN
 https://tvs2.aynaott.com/espn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cartoon_Network_2010_logo.svg", Cartoon Network
+#EXTINF:-1, Cartoon Network
 https://tvs2.aynaott.com/cartoonnetwork/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Nick_Jr._logo_2009.png", Nick Jr
+#EXTINF:-1, Nick Jr
 https://tvs2.aynaott.com/nickjr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Gazi_TV_logo.png", Gazi TV
+#EXTINF:-1, Gazi TV
 https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Sony Aath
+https://newbdix-xfireflix.vercel.app/api/245989.m3u8
+
